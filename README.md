@@ -18,10 +18,10 @@
 </a>
 
 ## 🙏 Support
-LATER
+later agaim
 
 ## 💌 Bio
-A optimzed version of the repo removing one .ysm files. This will create a new expernice with older gens like i5, old i7 gens, old ryzens and more older CPUs. Also this a fork not original. Thats main only.
+A optimzed version of the repo removing one .ysm files and two too. This will create a new expernice with older gens like i5, old i7 gens, old ryzens and more older CPUs. Also this a fork not original. Thats main only.
 
 <p align="left">
     </a>
