@@ -1,18 +1,9 @@
-# Visitors
 <p align="center">
-    (since 2024/11/30)
+    (since 2026/10/26)
     <br>
-    <img src="https://count.getloli.com/@ysmmodelrepo?name=ysmmodelrepo&theme=gelbooru&padding=8&offset=0&align=top&scale=1.3&pixelated=1&darkmode=auto"/>
+    <img src="https://v3b.fal.media/files/b/0aaff63f/xJ64K2SqVzFnq5MnxOYM6.png?width=10"/>
 </p>
 
-# Thank you
- - Special thanks [TartaricAcid](https://github.com/TartaricAcid) (Yes Steve Models' mod author) for creating YSM mod and advertising this repo on the mod's download page
-  
- - Thank you [Luckyu19](https://github.com/luckyu19), for helping me translate and rename most models here into English version
-
- - Thank you [Jerry](https://github.com/Jerry790790/Jerry790) and Bird, for helping me update the repo
-
- - Thank you all Model creators for making these models free for everyone
 <br>
 <br>
 
@@ -27,10 +18,11 @@
 </a>
 
 ## 🙏 Support
+LATER
+
+## 💌 Bio
+A optimzed version of the repo removing one .ysm files. This will create a new expernice with older gens like i5, old i7 gens, old ryzens and more older CPUs. Also this a fork not original. Thats main only.
 
 <p align="left">
-    <a href="https://www.paypal.com/paypalme/ElainaDaCattoRiel"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="Donate"/></a>
-    <a href="https://ko-fi.com/elainadacatto" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ko--fi-Donate-ff5e5b?style=flat-square&logo=ko-fi&logoColor=white" alt="Donate on Ko-fi"/></a>
-    <a href="https://me.momo.vn/elainadacatto" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MoMo-Donate-FF5AB5?style=flat-square" alt="Donate via MoMo"/></a>
+    </a>
 </p>
-
